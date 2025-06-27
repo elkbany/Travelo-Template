@@ -67,7 +67,7 @@ nav ul a:hover{
 }
 
 .content{
-    background-image: linear-gradient(rgb(0 0 0 / 26%),rgb(0 0 0 / 16%)), url(/images/content.png);
+    background-image: linear-gradient(rgb(0 0 0 / 26%),rgb(0 0 0 / 16%)), url(../images/content.png);
     width: 92.7%;
     height: 600px;
     border-radius: 18px;
