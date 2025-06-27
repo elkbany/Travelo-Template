@@ -612,7 +612,7 @@ footer .container span {
     }
     
     .content{
-        background-image: linear-gradient(rgb(0 0 0 / 26%),rgb(0 0 0 / 16%)), url(/images/content.png);
+        background-image: linear-gradient(rgb(0 0 0 / 26%),rgb(0 0 0 / 16%)), url(../images/content.png);
         width: auto;
         height: 600px;
         border-radius: 18px;
